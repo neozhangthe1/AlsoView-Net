@@ -2,3 +2,9 @@ Also-View Net
 =============
 
 Large scale network analysis(Linkedin public profile also-view network).
+
+
+Datasets
+--------
+Start from some public profiles and follow the links in also-view section.
+Nodes: 6319445, Edges: 9377614
