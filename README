@@ -3,6 +3,10 @@ Also-View Net
 
 Large scale network analysis(Linkedin public profile also-view network).
 
+Tools
+* SNAP: https://github.com/snap-stanford/snap
+* Stanford Topic Modeling Toolbox: http://www-nlp.stanford.edu/software/tmt/tmt-0.4/
+
 
 Datasets
 --------
